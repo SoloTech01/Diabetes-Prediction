@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score
 # DATA COLLECTION AND PROCESSING
 
 # loading the data into pandas dataframe
-diabetes_df = pd.read_csv("C:/Users/pc/Machine Learning Workspace/Datasets/diabetes.csv")
+diabetes_df = pd.read_csv("diabetes.csv")
 # Splitting the data into training and testing data
 X = diabetes_df.drop(columns="Outcome", axis=1)  #separating the labels
 Y = diabetes_df['Outcome']
