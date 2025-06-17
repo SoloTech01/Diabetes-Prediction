@@ -1,4 +1,4 @@
-#Diabetes Prediction
+# Diabetes Prediction
 
 A simple classification machine learning model to predict whether a person is diabetic based on health input parameters.
 
