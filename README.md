@@ -14,7 +14,9 @@ A simple classification machine learning model to predict whether a person is di
    git clone https://github.com/TheLogeek/Diabetes-Prediction
 
 2. Install requirements:
+
    cd Diabetes-Prediction
+
    pip install -r requirements.txt
 
 3. Run the program:
