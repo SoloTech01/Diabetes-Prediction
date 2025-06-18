@@ -7,6 +7,10 @@ A simple classification machine learning model to predict whether a person is di
 - Trained on Pima Indians Diabetes dataset (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - CLI interface for input
 
+**Model used**
+
+  Logistic Regression 
+
 **How to Use**
 
 1. Clone the repo:
@@ -20,4 +24,5 @@ A simple classification machine learning model to predict whether a person is di
    pip install -r requirements.txt
 
 3. Run the program:
+
    python diabetes prediction system.py
