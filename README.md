@@ -7,7 +7,7 @@ A simple classification machine learning model to predict whether a person is di
 - Trained on Pima Indians Diabetes dataset (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - CLI interface for input
 
-**Model used**
+**Algorithm used**
 
   Logistic Regression 
 
